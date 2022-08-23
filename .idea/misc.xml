@@ -6,12 +6,19 @@
         <entry key="app/src/main/res/drawable-v24/ic_vector_3.xml" value="0.2265" />
         <entry key="app/src/main/res/drawable-v24/ic_vector_5.xml" value="0.2265" />
         <entry key="app/src/main/res/drawable-v24/round_button.xml" value="0.2265" />
-        <entry key="app/src/main/res/layout/activity_finall.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_final1.xml" value="0.30779691749773347" />
+        <entry key="app/src/main/res/layout/activity_finall.xml" value="0.24975280761718746" />
+        <entry key="app/src/main/res/layout/activity_finalll.xml" value="0.3360410431808465" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.16601409912109372" />
         <entry key="app/src/main/res/layout/activity_onboarding.xml" value="0.23546905517578126" />
         <entry key="app/src/main/res/layout/activity_onboarding2.xml" value="0.246875" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.2171875" />
         <entry key="app/src/main/res/layout/activity_transactionlist.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/content_final1.xml" value="0.30779691749773347" />
+        <entry key="app/src/main/res/layout/extra.xml" value="0.25138948268490807" />
+        <entry key="app/src/main/res/layout/fragment_finalll.xml" value="0.3360410431808465" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.30779691749773347" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.30779691749773347" />
         <entry key="app/src/main/res/menu/navigation_menu.xml" value="0.14880266324125224" />
       </map>
     </option>
